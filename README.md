@@ -23,7 +23,7 @@
 
 🔸 Me apasiona la idea de fusionar la programación con el arte para crear proyectos creativos, como videojuegos o aplicaciones visualmente atractivas.
 
-🔸 Me gusta leer comics y jugar videojuegos.
+🔸 Me gusta leer comics.
 
 
 <br>
