@@ -6,7 +6,6 @@
 <br>  
 
 ## 🌻 **Un poco sobre mi**
-
 🔸 Mi nombre es **Melina**, tengo 28 años.
 
 🔸 Soy de **Argentina**.
@@ -22,24 +21,13 @@
 
 🔸 En mi tiempo libre, me dedico al arte digital utilizando herramientas como **Adobe Photoshop** y me encamino a aprender sobre diseño grafico y arte 3d en **Blender**.
 
+🔸 Me apasiona la idea de fusionar la programación con el arte para crear proyectos creativos, como videojuegos o aplicaciones visualmente atractivas.
+
 🔸 Me gusta leer comics y jugar videojuegos.
 
-<br>
-
-## 🌍 **Idiomas**
-
-- **Español:** Nativo
-- **Inglés:** Intermedio
-- **Francés:** Básico
 
 <br>
 
-## 🎯 **Objetivo**
-Estoy enfocada en desarrollar mis habilidades en programación para integrarlas con otras áreas de interés en el futuro.
-
-<br>
-
-## 📫 **Contactame**
-aguilarmelinaelizbeth@gmail.com
+## 📫 **Contacto:** ` aguilarmelinaelizabeth@gmail.com `
 
 <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
