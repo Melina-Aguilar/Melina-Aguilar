@@ -6,7 +6,7 @@
 <br>  
 
 ## 🌻 **Un poco sobre mi**
-🔸 Mi nombre es **Melina**, tengo 28 años.
+🔸 Mi nombre es **Melina**.
 
 🔸 Soy de **Argentina**.
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> &nbsp;
