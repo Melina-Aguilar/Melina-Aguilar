@@ -1,3 +1,4 @@
+<img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
 <h1 align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;¡Hola a todos! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
 </h1>  
@@ -40,3 +41,5 @@ Estoy enfocada en desarrollar mis habilidades en programación para integrarlas 
 
 ## 📫 **Contactame**
 aguilarmelinaelizbeth@gmail.com
+
+<img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
