@@ -17,7 +17,7 @@
 - **JavaScript**
 - **HTML**
 - **Git**
-- y, ademas, a **trabajar en equipo** 
+- y, ademas, a **trabajar en equipo**.
 
 🔸 En mi tiempo libre, me dedico al arte digital utilizando herramientas como **Adobe Photoshop** y me encamino a aprender sobre diseño grafico y arte 3d en **Blender**.
 
