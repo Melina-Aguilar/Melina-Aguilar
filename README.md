@@ -19,8 +19,6 @@
 - **Git**
 - y, ademas, a **trabajar en equipo**.
 
-🔸 En mi tiempo libre, me dedico al arte digital utilizando herramientas como **Adobe Photoshop** y me encamino a aprender sobre diseño grafico y más lenguajes de programación.
-
 🔸 Me apasiona la idea de fusionar la programación con el arte para crear proyectos creativos, como videojuegos o aplicaciones visualmente atractivas.
 
 
