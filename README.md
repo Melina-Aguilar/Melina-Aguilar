@@ -25,6 +25,4 @@
 
 <br>
 
-## 📫 **Contacto:** ` aguilarmelinaelizabeth@gmail.com `
-
 <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
