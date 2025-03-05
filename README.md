@@ -5,7 +5,7 @@
 
 <br>  
 
-## 🌻 **Un poco sobre mi**
+## 🌻 **Sobre mi**
 🔸 Mi nombre es **Melina**.
 
 🔸 Soy de **Argentina**.
