@@ -11,13 +11,7 @@
 🔸 Soy de **Argentina**.
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" /> &nbsp;
 
-🔸 Actualmente estoy en la **Tecnicatura en Programación** en la Universidad Tecnologica Nacional, donde estoy aprendiendo:
-- **Python**
-- **Java**
-- **JavaScript**
-- **HTML**
-- **Git**
-- y, ademas, a **trabajar en equipo**.
+🔸 Actualmente estoy en la **Tecnicatura en Programación** en la Universidad Tecnologica Nacional.
 
 <br>
 
