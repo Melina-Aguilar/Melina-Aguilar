@@ -14,5 +14,4 @@
 🔸 Actualmente estoy en la **Tecnicatura en Programación** en la Universidad Tecnologica Nacional.
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Melina-Aguilar&label=Profile%20views&color=0e75b6&style=flat" alt="Melina-Aguilar" /> </p>
 <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
