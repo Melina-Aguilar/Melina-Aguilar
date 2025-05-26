@@ -1,7 +1,7 @@
 <h1 align="center">
 <div align="center">
   <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" /> 
-  <h3>MELINA AGUILAR</h3>
+  <h3>— MELINA AGUILAR —</h3>
  
  <!-- <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FMelina-Aguilar%2FMelina-Aguilar&label=VISITORS&labelColor=%23000&countColor=%230A0209" /> -->
   <!--- <a href=""><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Melina Aguilar" /></a> -->
