@@ -12,13 +12,13 @@
 
  Después de dedicarme varios años al arte digital, decidí retomar mis estudios en programación. 
 
- Actualmente estoy terminando una tecnicatura, donde desde el inicio trabajamos en equipo utilizando metodologías ágiles y herramientas como Jira y Git.
+Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajamos en equipo utilizando metodologías ágiles y herramientas como Jira y Git.
 
  Sigo reforzando mis conocimientos cada día y ya estoy desarrollando mis propios proyectos para construir mi portfolio.
  
 <br>
 <details>
-  <summary><h2><b> Sobre mí</b></h2></summary>
+  <summary><h2><b>✿ Sobre mí</b></h2></summary>
   <br>
   
 - Estudié Ingeniería en Computación durante algunos años.
@@ -45,8 +45,9 @@
 | **Design Tools**         | ![Photoshop](https://img.shields.io/badge/Photoshop-d5d5d5?style=for-the-badge&logo=adobephotoshop&logoColor=0A0209) ![Figma](https://img.shields.io/badge/Figma-d5d5d5?style=for-the-badge&logo=figma&logoColor=0A0209) ![Blender](https://img.shields.io/badge/Blender-d5d5d5?style=for-the-badge&logo=blender&logoColor=000000) |
 
 <br>
-
- # Contacto: <a href="https://www.linkedin.com/in/melina-aguilar11/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username melina-aguilar11" /></a> <a href="https://x.com/MelDev_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MelDev_" ></a>
 </div>
+
+ <h2 align="center">✿ Contacto: <a href="https://www.linkedin.com/in/melina-aguilar11/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username melina-aguilar11" /></a> <a href="https://x.com/MelDev_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MelDev_" ></a></h2>
+
 
 <img src="https://64.media.tumblr.com/ee79882462c7aad2ada5eb096b6f4775/676a6cfcab52675e-b9/s1280x1920/05bdc036dc2b89d9aad2cf027dec37292abd81ad.png" />
