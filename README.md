@@ -20,7 +20,7 @@
  
 <br>
 <details>
-  <summary><b>Sobre mí</b></summary>
+  <summary><h2><b> Sobre mí</b></h2></summary>
   <br>
   
 - Estudié Ingeniería en Computación durante algunos años.
