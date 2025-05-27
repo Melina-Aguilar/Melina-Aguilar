@@ -45,8 +45,15 @@ Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajam
 | **Design Tools**         | ![Photoshop](https://img.shields.io/badge/Photoshop-d5d5d5?style=for-the-badge&logo=adobephotoshop&logoColor=0A0209) ![Figma](https://img.shields.io/badge/Figma-d5d5d5?style=for-the-badge&logo=figma&logoColor=0A0209) ![Blender](https://img.shields.io/badge/Blender-d5d5d5?style=for-the-badge&logo=blender&logoColor=000000) |
 
 <br>
+
+# Proyectos
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| Capybara Films | - | [view](https://github.com/PowerSystem2024/CapybaraFilms_ProyectoTercerSemestre) | `Python` `PostgreSQL` `Flask`|
+
 </div>
 
+<br>
 
  <h2 align="center">✿ Contacto: <img src="https://github.com/user-attachments/assets/08f74498-5c15-4d07-8d19-26eb3b67a726" /> <a href="https://www.linkedin.com/in/melina-aguilar11/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username melina-aguilar11" /></a> <a href="https://x.com/MelDev_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MelDev_" ></a> 
    
