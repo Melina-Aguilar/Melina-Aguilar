@@ -47,9 +47,9 @@ Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajam
 <br>
 
 # Projects 🛠 
-| Projects | Deployed Link | Repository | Tech Stack & Tools |
-|:---------|:-------------:|:----------:|:-------------------|
-| Capybara Films | - | [view](https://github.com/PowerSystem2024/CapybaraFilms_ProyectoTercerSemestre) | `Python` `PostgreSQL` `Flask`|
+| Projects | Description | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-----------:|:-------------:|:----------:|:-------------------|
+| Capybara Films | Aplicación de gestión de cines. | - | [view](https://github.com/PowerSystem2024/CapybaraFilms_ProyectoTercerSemestre) | `Python` `PostgreSQL` `Flask`|
 
 </div>
 
