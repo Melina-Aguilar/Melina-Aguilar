@@ -55,7 +55,7 @@ Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajam
 
 <br>
 
- <h2 align="center">✿ Contact: <img src="https://github.com/user-attachments/assets/08f74498-5c15-4d07-8d19-26eb3b67a726" /> <a href="https://www.linkedin.com/in/melina-aguilar11/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username melina-aguilar11" /></a> <a href="https://x.com/MelDev_"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username MelDev_" ></a> 
+ <h2 align="center">✿ Contact: <img src="https://github.com/user-attachments/assets/08f74498-5c15-4d07-8d19-26eb3b67a726" /> <a href="https://www.linkedin.com/in/melina-aguilar11/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username melina-aguilar11" /></a> 
    
  </h2>
 
