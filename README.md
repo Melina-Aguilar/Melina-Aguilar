@@ -10,8 +10,6 @@
 
 <img align="left" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"  /> 
 
- Después de dedicarme varios años al arte digital, decidí retomar mis estudios en programación. 
-
 Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajamos en equipo utilizando metodologías ágiles y herramientas como Jira y Git.
 
  Sigo reforzando mis conocimientos cada día y ya estoy desarrollando mis propios proyectos para construir mi portfolio.
