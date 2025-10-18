@@ -49,7 +49,7 @@ Actualmente, estoy terminando una tecnicatura en la que desde el inicio trabajam
 |:---------|:-----------:|:-------------:|:----------:|:-------------------|
 | **Capybara Films** | Aplicación de gestión de cines. | - | [view](https://github.com/PowerSystem2024/CapybaraFilms_ProyectoTercerSemestre) | `Python` `PostgreSQL` `Flask`|
 | **CapyDo** | Aplicación de gestión de proyectos. | - |  [view](https://github.com/Capy-Do) |  `Bizagi`  `Figma` `React` <br> `HTML` `CSS` |
-| **CapyGaming** | E-Commerce de productos gamer. | - | [view](https://github.com/PowerSystem2024/CapyGaming-CarpinchosProgramando) | `Node.js` `Html` `Css` <br> `JavaScript` `Vue.js` `Express` |
+| **CapyGaming** | E-Commerce de productos gamer. | - | [view](https://github.com/PowerSystem2024/CapyGaming-CarpinchosProgramando) | `Node.js` `Docker` `Css` <br> `JavaScript` `Vue.js` `Express` |
 </div>
 
 <br>
